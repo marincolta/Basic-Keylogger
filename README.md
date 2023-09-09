@@ -36,6 +36,7 @@ We see that there is a **nCode**, Wparam and LParam (as arguments).
 >Indicated whether the hook procedure must process the message.
 **wParam** 
 >Specifies the type of keyboar dmessage(WM_KEYDOWN, WM_KEYUP, WM_SYSKEYDOWN, or WM_SYSKEYUP)
+
 And the last argument which is **lParam**  
 >Is a pointer to KBDLLHOOKSTRUCT or in another words is a pointer  to the hookstruct that contains information about keyboard input event.
 
