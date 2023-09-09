@@ -20,7 +20,7 @@
 ## Usage
 
 1. Launch the project on your Windows machine.
-2. The application will continuously monitor the keyboard and it will send the data to the console and it will make .txt files based on the window that has the focus.
+2. The application will continuously monitor the keyboard, display the typed data in the console, and create or append to .txt files based on the currently focused window's application.
 
 ## Documentation
 
